@@ -37,7 +37,7 @@
                 <nav class="primary-navigation" id="primary-navigation" aria-label="Main navigation">
                     <a class="navigation-link" href="{{ route('home') }}" @if (request()->routeIs('home')) aria-current="page" @endif>Home</a>
                     <a class="navigation-link" href="{{ url('/about') }}">About</a>
-                    <a class="navigation-link" href="{{ url('/contact') }}">Contact</a>
+                    <a class="navigation-link" href="{{ route('contact') }}" @if (request()->routeIs('contact')) aria-current="page" @endif>Contact</a>
                     <a class="navigation-cta" href="{{ url('/contact') }}">For café owners <span aria-hidden="true">↗</span></a>
                 </nav>
             </div>
