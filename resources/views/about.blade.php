@@ -15,7 +15,7 @@
         <section class="about-hero">
             <div class="site-container about-hero-inner">
                 <p class="about-eyebrow">OUR STORY / KAPE LOKAL</p>
-                <h1>More than coffee.<br><span>A local connection.</span></h1>
+                <h1>More than coffee<br><span>A local connection</span></h1>
                 <p>
                     We bring locals, csuans and people that currently visiting our city closer to the coffee shops around
                     Ampayon, one local discovery at a time
@@ -35,7 +35,7 @@
 
                 <div class="about-story-content">
                     <p class="about-label">HOW IT STARTED</p>
-                    <h2>Every corner has a story worth sharing.</h2>
+                    <h2>Every corner has a story worth sharing</h2>
 
                     <p>
                         Kape Lokal started with a simple idea and that is to
@@ -74,13 +74,13 @@
             <div class="site-container">
                 <div class="about-section-heading">
                     <p class="about-label">WHAT GUIDES US</p>
-                    <h2>Our purpose, our direction.</h2>
+                    <h2>Our purpose, our direction</h2>
                 </div>
 
                 <div class="purpose-grid">
                     <article class="purpose-card">
                         <span>01 / OUR MISSION</span>
-                        <h3>Making local coffee easier to discover.</h3>
+                        <h3>Making local coffee easier to discover</h3>
                         <p>
                             Our mission is to provide students with
                             a simple and accessible guide to coffee
@@ -91,7 +91,7 @@
 
                     <article class="purpose-card">
                         <span>02 / OUR VISION</span>
-                        <h3>A community connected through local coffee.</h3>
+                        <h3>A community connected through local coffee</h3>
                         <p>
                             Our vision is to become a helpful local
                             guide that connects students, coffee
@@ -110,7 +110,7 @@
                     <h2>Meet our team.</h2>
                     <p>
                         A student team bringing local coffee discoveries
-                        closer to the CSU community.
+                        closer to the CSU community
                     </p>
                 </div>
 
@@ -124,7 +124,7 @@
                     <article class="team-card">
                         <div class="team-initial">MS</div>
                         <p class="team-role">TEAM MEMBER</p>
-                        <h3>Mark Salva</h3>
+                        <h3>Mark Jun Salva</h3>
                     </article>
 
                     <article class="team-card">
